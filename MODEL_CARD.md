@@ -3,7 +3,7 @@
 ## Model details
 - **Type:** 1-D linear regression, `y = w·x + b`, fit with mini-batch SGD (PyTorch `nn.Linear`).
 - **Training:** per-run hyperparameters (learning rate, batch size, epochs) supplied by the API request.
-- **Owner:** your team (add your names).
+- **Owner:** your team (Lal Ruata).
 
 ## Intended use
 - **Primary:** an interactive teaching demo showing how a linear model trains and how learning rate affects convergence vs. divergence.
